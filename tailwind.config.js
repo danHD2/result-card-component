@@ -12,6 +12,7 @@ export default {
       },
       colors: {
         lightRed: "hsl(0, 100%, 67%)",
+        lightRedTwo: "hsla(0, 100%, 67%, 0.2",
         orangeyYellow: "hsl(39, 100%, 56%)",
         greenTeal: "hsl(166, 100%, 37%)",
         cobaltBlue: "hsl(234, 85%, 45%)",
